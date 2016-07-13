@@ -1,3 +1,6 @@
 [submodule "activity"]
 	path = activity
 	url = https://github.com/laurafitzgerald/FYPActivity.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/laurafitzgerald/FYPFrontEnd.git
