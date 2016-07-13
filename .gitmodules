@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/laurafitzgerald/FYPFrontEnd.git
+[submodule "api"]
+	path = api
+	url = https://github.com/laurafitzgerald/FYPApi.git
